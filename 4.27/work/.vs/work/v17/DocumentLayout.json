@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josh9\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\HW2\\4.27\\work\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A327261F-C100-45A5-A95A-307A5AB6B619}|work\\work.vcxproj|C:\\Users\\josh9\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\HW2\\4.27\\work\\work\\work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A327261F-C100-45A5-A95A-307A5AB6B619}|work\\work.vcxproj|solutionrelative:work\\work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "work.cpp",
+              "DocumentMoniker": "C:\\Users\\josh9\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\HW2\\4.27\\work\\work\\work.cpp",
+              "RelativeDocumentMoniker": "work\\work.cpp",
+              "ToolTip": "C:\\Users\\josh9\\OneDrive\\\u684C\u9762\\\u7A0B\u5F0F\u8A2D\u8A08\\HW2\\4.27\\work\\work\\work.cpp",
+              "RelativeToolTip": "work\\work.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T02:40:15.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
